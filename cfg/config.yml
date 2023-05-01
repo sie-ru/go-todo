@@ -1,0 +1,10 @@
+server:
+  port: "8000"
+
+database:
+  port: "5454"
+  host: "localhost"
+  username: "web"
+  password: "web"
+  dbname: "web"
+  ssl_mode: "disable"
